@@ -23,7 +23,7 @@ A deep learning-based system for detecting diseases in tomato plants from leaf i
 
 Tomato crops are highly susceptible to a variety of diseases that can devastate yields if left undetected. This project builds a Convolutional Neural Network (CNN) classifier trained on labelled tomato leaf images to identify diseases early and accurately.
 
-The trained model is deployed inside a Flutter mobile application, enabling farmers and agricultural extension workers to snap a photo of a tomato leaf and receive an instant disease diagnosis — without needing internet connectivity after the model is loaded.
+The trained model is deployed inside a Flutter mobile application, enabling farmers to snap a photo of a tomato leaf and receive an instant disease diagnosis without needing internet connectivity after the model is loaded.
 
 **Key goals:**
 - Train a CNN model to classify tomato leaf diseases from images.

@@ -148,7 +148,7 @@ Follow these steps in order inside `FinalProject.ipynb`:
 
 4. **Model Training**
    - Training is performed with the configured hyperparameters (epochs, batch size, learning rate).
-   - Run the training cell — this may take several minutes depending on your hardware.
+   - Run the training cell
 
 5. **Evaluation**
    - After training, run the evaluation cells to generate:
